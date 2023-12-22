@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="lightgreybuttons">
+        <item name="android:color">@color/lightGrey</item>
+        <item name="android:radius">40dp</item>
+    </style>
+    <style name="darkgreybuttons">
+        <item name="android:color">@color/darkGrey</item>
+        <item name="android:radius">40dp</item>
+    </style>
+    <style name="orangeButtons">
+        <item name="android:color">@color/orange</item>
+        <item name="android:radius">40dp</item>
+    </style>
+</resources>
